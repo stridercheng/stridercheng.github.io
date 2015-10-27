@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "First Time"
+date:   2015-10-14 11:18:32
+categories: jekyll update
+---
+
 ## 	免安装Oralce使用PL/SQL连接数据库
 
 
